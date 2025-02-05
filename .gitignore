@@ -24,5 +24,7 @@ hs_err_pid*
 replay_pid*
 /HolaMundoJava/nbproject/*
 /HolaMundoJava/build/*
-/01-HolaMundoJava/nbproject/private/
-/01-HolaMundoJava/build/
+/01-HolaMundoJava/nbproject/*
+/01-HolaMundoJava/build/*
+/02-Calculadora/nbproject/*
+/02-Calculadora/build/*
